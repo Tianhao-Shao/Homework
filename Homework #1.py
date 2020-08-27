@@ -1,3 +1,6 @@
+# Tianhao SHao
+# 1781421
+
 print('Birthday Calculator\n')
 print('\tCurrent day')
 current_day = int(input('Enter the current day: '))
